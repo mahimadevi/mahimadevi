@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 
-<p align="left"> <a href="https://twitter.com/07mahima0" target="blank"><img src="https://img.shields.io/twitter/follow/mahima0_07?logo=twitter&style=for-the-badge" alt="mahima0_07" /></a> </p>
 
 - 🔭 I’m currently **pursuing Engineering at ABV-IIITM Gwalior.**
 
