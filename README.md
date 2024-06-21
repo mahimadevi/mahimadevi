@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN, C++**
 
-- 📫 How to reach me **mahidv5687@gmail.com**
+- 📫 How to reach me **mahimadevi140701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
