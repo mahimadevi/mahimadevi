@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahima Devi</h1>
-<h3 align="center">I am a Fifth Year Information Technology student</h3>
+<!-- <h3 align="center">I am a Fifth Year Information Technology student</h3> - 🔭 I’m currently **pursuing Engineering at ABV-IIITM Gwalior.**-->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 
 
-- 🔭 I’m currently **pursuing Engineering at ABV-IIITM Gwalior.**
+
 
 - 🌱 I’m currently **exploring more backend tech stacks and databases.**
 
