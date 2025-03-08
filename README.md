@@ -17,9 +17,9 @@
 <!-- <a href="https://twitter.com/mahima0_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahima0_07" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/mahima-devi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahima-devi/" height="30" width="40" /></a>
 <a href="https://instagram.com/mahima0_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahima0_07" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahima5687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahima5687" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kook_69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kook_69" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/mahima devi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahima devi" height="30" width="40" /></a> -->
-<a href="https://www.leetcode.com/mahima5687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahima5687" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mahima5687" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mahima5687" height="30" width="40" /></a>
 </p>
 
